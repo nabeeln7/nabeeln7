@@ -1,4 +1,4 @@
-Moved to [github.com/nabeel-nasir](github.com/nabeel-nasir)
+Moved to [github.com/nabeel-nasir](https://github.com/nabeel-nasir)
 
 <!---
 nabeeln7/nabeeln7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
